@@ -1,2 +1,2 @@
-# IA_resources
+# IA - resources
 IA resources
